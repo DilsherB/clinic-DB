@@ -12,7 +12,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -34,7 +33,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
->  Built with PostgreSQL.
+> Built with PostgreSQL.
 
 <details>
 <summary>Database</summary>
@@ -50,13 +49,6 @@
 - **[Create database from schema diagram]**
 - **[Create tables]**
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Source Link](https://github.com/DilsherB/clinic-DB)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -70,6 +62,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 ### Prerequisites
 
 In order to run this project you need:
+
 - PostgreSQL database
 
 ### Setup
@@ -81,6 +74,7 @@ Clone this repository to your desired folder:
 
   $ cd clinic-DB
 ```
+
 ### Install
 
 Select correct PostgreSQL package and install from https://www.postgresql.org/download/
@@ -88,6 +82,7 @@ Select correct PostgreSQL package and install from https://www.postgresql.org/do
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
+
 👤 **Dilsher**
 
 - GitHub: [@DilsherB](https://github.com/DilsherB)
