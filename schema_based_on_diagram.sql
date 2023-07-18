@@ -45,3 +45,6 @@ CREATE TABLE treatment_histories(
   medical_histories_id INT REFERENCES medical_histories(id),
   treatments_id INT REFERENCES treatments(id)
 )
+
+CREATE INDEX idx_medical_histories_id treatment_histories(medical_histories_id);
+CREATE INDEX idx_treatments_id treatment_histories(treatments_id);
