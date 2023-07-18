@@ -36,4 +36,7 @@ CREATE TABLE invoice_items(
   treatment_id INT REFERENCES treatments(id)
 )
 
-
+CREATE TABLE treatment_histories(
+  medical_histories_id INT REFERENCES medical_histories(id),
+  treatments_id INT REFERENCES treatments(id)
+)
